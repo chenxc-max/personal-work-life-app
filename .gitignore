@@ -1,0 +1,11 @@
+node_modules/
+dist/
+coverage/
+.vite/
+scaffold-tmp/
+tools/node-lts/
+tools/node.zip
+tools/server.log
+playwright-report/
+test-results/
+*.local
